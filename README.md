@@ -2,7 +2,7 @@
 
 > **Auteur** : Sam Guillot  
 > **App déployée** : https://tiny-insta-sam-guillot.appspot.com  
-> **Repo fork** : https://github.com/sam-guillot44/massive-gcp *(à mettre à jour)*
+> **Repo fork** : https://github.com/S-guillot/dev-cloud-project
 
 ---
 
